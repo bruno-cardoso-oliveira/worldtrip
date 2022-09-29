@@ -1,0 +1,38 @@
+{
+  "name": "worldtrip-ignite",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/core": "^0.8.0",
+    "@chakra-ui/react": "^2.3.4",
+    "@emotion/core": "^11.0.0",
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.4",
+    "@hookform/resolvers": "^2.9.8",
+    "apexcharts": "^3.35.5",
+    "emotion-theming": "^11.0.0",
+    "framer-motion": "^7.2.1",
+    "link": "^1.5.1",
+    "next": "12.2.5",
+    "react": "18.2.0",
+    "react-apexcharts": "^1.4.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.35.0",
+    "react-icons": "^4.4.0",
+    "sass": "^1.55.0",
+    "swiper": "^8.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.13",
+    "@types/react": "^18.0.17",
+    "eslint": "8.23.0",
+    "eslint-config-next": "12.2.5",
+    "typescript": "^4.8.2"
+  }
+}
